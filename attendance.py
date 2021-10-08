@@ -25,7 +25,7 @@ def main():
             print("OK, you will be allowed to sit in the exam.")
         else:
             print(
-                "Your attendence is less than 75%, you will not be allowed to sit in the exam"
+                "Your attendance is less than 75%, you will not be allowed to sit in the exam"
             )
 
     except Exception:
